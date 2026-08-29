@@ -3,9 +3,12 @@
 superpowers/
 plans/
 docs/superpowers/
+temp_auto_push.bat
 docs/plans/
 
 # Local code-intelligence index and Python bytecode: machine state, never catalogue.
 /.prowl/
 .prowl-setup.lock
 __pycache__/
+.gitignore
+branch_structure.json
